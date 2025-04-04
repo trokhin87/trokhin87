@@ -48,7 +48,9 @@
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=trokhin87&theme=tokyo-night)](https://github.com/trokhin87)
 
 ### 💻 LeetCode:
-[![LeetCode user trokhin87](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FGrigoryevArtem&logo=leetcode&logoColor=yellow)](https://leetcode.com/trokhin87/)
+### 💻 LeetCode:
+![LeetCode Stats](https://img.shields.io/badge/Решено-44-green?style=flat-square&logo=leetcode&logoColor=white)
+(https://leetcode.com/trokhin87/)
 ---
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
