@@ -1,4 +1,4 @@
-# Привет, я Женя Трохин 👋
+# Привет, я Евгений Трохин 👋
 
 ## 🔧 Стэк:
 ![C#](https://img.shields.io/badge/-CSharp-239120?style=flat-square&logo=c-sharp&logoColor=white)
@@ -47,7 +47,14 @@
 ## ⚡ Активность:
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=trokhin87&theme=tokyo-night)](https://github.com/trokhin87)
 
+### 💻 LeetCode:
+[![LeetCode user trokhin87](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FGrigoryevArtem&logo=leetcode&logoColor=yellow)](https://leetcode.com/trokhin87/)
 ---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
 
 ## 📫 Как меня найти:
 - [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/m0neylonger)
