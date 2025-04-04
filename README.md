@@ -45,10 +45,10 @@
 ---
 
 ## ⚡ Активность:
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gandoler&theme=tokyo-night)](https://github.com/trokhin87)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=trokhin87&theme=tokyo-night)](https://github.com/trokhin87)
 
 ---
 
 ## 📫 Как меня найти:
 - [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/m0neylonger)
-- 📧 Email: 
+- 📧 Email: trokhin87@gmail.com
