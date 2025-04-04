@@ -57,6 +57,8 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
-## 📫 Как меня найти:
-- [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/m0neylonger)
-- 📧 Email: trokhin87@gmail.com
+## 📬 Как со мной связаться
+
+[![Telegram](https://img.shields.io/badge/-Написать%20в%20Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/m0neylonger)
+[![Email](https://img.shields.io/badge/-trokhin87@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trokhin87@gmail.com)
+
