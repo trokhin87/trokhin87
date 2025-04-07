@@ -12,6 +12,7 @@
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![PlantUML](https://img.shields.io/badge/-PlantUML-1B4A2D?style=flat-square&logo=plantuml&logoColor=white)
 ![MPI](https://img.shields.io/badge/-MPI-6600FF?style=flat-square&logo=mpi&logoColor=white)
+![YARP](https://img.shields.io/badge/-YARP-0062CC?style=flat-square&logo=reverseproxy&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-1A1A1A?style=flat-square&logo=openai&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
