@@ -63,3 +63,4 @@
 [![Telegram](https://img.shields.io/badge/-Написать%20в%20Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/m0neylonger)
 [![Email](https://img.shields.io/badge/-trokhin87@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trokhin87@gmail.com)
 
+![](https://komarev.com/ghpvc/?username=trokhin87&color=green)
