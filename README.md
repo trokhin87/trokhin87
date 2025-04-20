@@ -20,8 +20,8 @@
 ---
 
 ## 🧠 Архитектурные подходы:
-![MVP](https://img.shields.io/badge/-MVP-FFB000?style=flat-square&logo=patternfly&logoColor=white)
-![MVC](https://img.shields.io/badge/-MVC-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![MVP](https://img.shields.io/badge/-MVP-FFB000?style=flat-square&logo=patternfly&logoColor=dark)
+![MVC](https://img.shields.io/badge/-MVC-6DB33F?style=flat-square&logo=spring&logoColor=dark)
 
 ---
 
