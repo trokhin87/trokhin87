@@ -39,8 +39,8 @@
 ---
 
 ## 📊 GitHub Статистика:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trokhin87&layout=compact&langs_count=100&theme=night)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=trokhin87&show_icons=true&theme=night)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trokhin87&layout=compact&langs_count=100&theme=black)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=trokhin87&show_icons=true&theme=black)
 ---
 
 ## ⚡ Активность:
